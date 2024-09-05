@@ -1,2 +1,6 @@
 # bibli-manager
-Projet du fin d'année sur la gestion de bibliothèque
+Application Desktop 
+Projet du fin d'année L1 sur la gestion de bibliothèque
+
+
+2MCT
